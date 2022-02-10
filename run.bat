@@ -1,0 +1,1 @@
+deno run --reload --allow-read --allow-net --allow-write main.ts
